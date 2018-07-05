@@ -4,6 +4,7 @@ import android.util.Log;
 
 public class Animal {
 
+    //try to find more descriptive property
     double speed;
     String color;
 
